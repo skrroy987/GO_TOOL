@@ -1,3 +1,3 @@
 !/bin/bash
 clear
-java -jar HelloWorld.jar
+echo "Hello World"
